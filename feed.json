@@ -64,8 +64,8 @@
             "id": "https://big-bad-universe.github.io/sardinia-june-2022/home.html",
             "url": "https://big-bad-universe.github.io/sardinia-june-2022/home.html",
             "title": "VIDEOS",
-            "summary": "We found barracuda in the end, and a load of other stuff on the way She just flipped away like a torpedoey flippy thing",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/BZGPZfsuej8\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p><strong>We found barracuda in the end, and a load of other stuff on the way</strong></p>\n<p> </p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/jq_TprkAITI\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p><strong>She just flipped away like a torpedoey flippy thing</strong></p>",
+            "summary": "We found barracuda in the end, and a load of other stuff along the way She just flipped off into the distance like a flippy torpedoey thing",
+            "content_html": "<h4>We found barracuda in the end, and a load of other stuff along the way</h4>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/BZGPZfsuej8\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>\n<h4>She just flipped off into the distance like a flippy torpedoey thing</h4>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/jq_TprkAITI\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "image": "https://big-bad-universe.github.io/sardinia-june-2022/media/posts/1/camera3c_3700x2000_1.85.jpg",
             "author": {
                 "name": "author1"
@@ -73,7 +73,7 @@
             "tags": [
             ],
             "date_published": "2022-07-20T13:19:00+02:00",
-            "date_modified": "2022-08-01T20:14:54+02:00"
+            "date_modified": "2022-08-02T10:55:08+02:00"
         }
     ]
 }

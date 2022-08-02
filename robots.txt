@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://big-bad-universe.github.io/sardinia-june-2022/sitemap.xml

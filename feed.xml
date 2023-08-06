@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Sardinia June 2022</title>
     <link href="https://big-bad-universe.github.io/sardinia-june-2022/feed.xml" rel="self" />
     <link href="https://big-bad-universe.github.io/sardinia-june-2022" />
-    <updated>2022-08-23T12:18:51+02:00</updated>
+    <updated>2023-08-06T16:07:06+02:00</updated>
     <author>
         <name>author1</name>
     </author>
@@ -16,17 +16,18 @@
         </author>
         <link href="https://big-bad-universe.github.io/sardinia-june-2022/unposed.html"/>
         <id>https://big-bad-universe.github.io/sardinia-june-2022/unposed.html</id>
+        <media:content url="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/06_sardinia_200.JPG" medium="image" />
 
-        <updated>2022-08-23T12:18:51+02:00</updated>
+        <updated>2023-08-06T16:07:06+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/06_sardinia_200.JPG" alt="" />
-                    Environmental vandalism never looked prettier This is going to be tasty Once upon a time Say cheeblblbllbluh Our little friend (doing glass recyling) Marine girl Who farted? Oh, it was me Not laughing now Moody bura "No, you being cheerful won't help" Wake up darling... I'm getting hangry Shiny pseudo-birthday&hellip;
+                    Environmental vandalism never looked prettier This is going to be tasty Once upon a time Say bluhbluhbluh Our little friend (doing glass recyling) Marine girl Who farted? Oh, it was me Not laughing now Moody bura "No, you being cheerful won't help" Wake up darling... I'm getting hangry Shiny pseudo-birthday&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/06_sardinia_200.JPG" alt="" />
+                    <p><img src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/06_sardinia_200.JPG" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
 <figure class="gallery__item"><a href="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/gallery/06_sardinia_010.JPG" data-size="1924x1080"><img loading="lazy" src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/gallery/06_sardinia_010-thumbnail.JPG" alt="" width="720" height="404"></a>
 <figcaption>Environmental vandalism never looked prettier</figcaption>
@@ -38,7 +39,7 @@
 <figcaption>Once upon a time</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/gallery/06_sardinia_043.jpg" data-size="1921x1080"><img loading="lazy" src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/gallery/06_sardinia_043-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Say cheeblblbllbluh</figcaption>
+<figcaption>Say bluhbluhbluh</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/gallery/06_sardinia_045_our-little-friend.jpg" data-size="1921x1080"><img loading="lazy" src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/5/gallery/06_sardinia_045_our-little-friend-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Our little friend (doing glass recyling)</figcaption>
@@ -185,6 +186,7 @@
         </author>
         <link href="https://big-bad-universe.github.io/sardinia-june-2022/home.html"/>
         <id>https://big-bad-universe.github.io/sardinia-june-2022/home.html</id>
+        <media:content url="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/1/camera3c_3700x2000_1.85.jpg" medium="image" />
 
         <updated>2022-08-23T08:08:17+02:00</updated>
             <summary>
@@ -195,7 +197,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/1/camera3c_3700x2000_1.85.jpg" alt="" />
+                    <p><img src="https://big-bad-universe.github.io/sardinia-june-2022/media/posts/1/camera3c_3700x2000_1.85.jpg" class="type:primaryImage" alt="" /></p>
                 <h4>We found barracuda in the end, and a load of other stuff along the way</h4>
 <figure class="post__video"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/BZGPZfsuej8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p> </p>
